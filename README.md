@@ -1,5 +1,3 @@
--- Src By START#5331|By x2tawan#0001
-
 local ScreenGui = Instance.new("ScreenGui")
 local ImageButton = Instance.new("ImageButton")
 
